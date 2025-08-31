@@ -1,3 +1,0 @@
-Add file to commit: git add <file name>
-Commit changes: git commit
-Push changes to branch on git: git push origin <branch name>
