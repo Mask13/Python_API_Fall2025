@@ -13,4 +13,5 @@ Make a new folder: mkdir <Folder name>
 Copy files and folders: cp <-r directory / file name> <destination path>
 Show file content: cat <file name>
 Create an empty file: touch <file name>
+List files and directories: ls
 
