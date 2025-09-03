@@ -6,4 +6,5 @@ Commit changes: git commit -m [message]
 Push changes to branch on git: git push origin [branch name]
 Merge current another branch into current branch: git merge [branch]
 Fetch and merge any changes on remote: git pull
+Show modified files: git status
 
