@@ -11,4 +11,5 @@ Show modified files: git status
 Linux actions:
 Make a new folder: mkdir <Folder name>
 Copy files and folders: cp <-r directory / file name> <destination path>
+Show file content: cat <file name>
 
