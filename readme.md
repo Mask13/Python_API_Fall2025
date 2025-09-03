@@ -13,4 +13,6 @@ Make a new folder: mkdir <Folder name>
 Copy files and folders: cp <-r directory / file name> <destination path>
 Show file content: cat <file name>
 Create an empty file: touch <file name>
+search of files and directories: find <path> -name "filename or extenstion (*.txt)"
+
 
