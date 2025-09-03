@@ -16,4 +16,7 @@ Create an empty file: touch <file name>
 List files and directories: ls
 Search of files and directories: find <path> -name "filename or extenstion (*.txt)"
 
+Vi actions:
+insert: a, press esc to exit insert mode
+save and exit: :wq
 
