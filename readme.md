@@ -8,3 +8,6 @@ Merge current another branch into current branch: git merge [branch]
 Fetch and merge any changes on remote: git pull
 Show modified files: git status
 
+Linux actions:
+Make a new folder: mkdir <Folder name>
+
