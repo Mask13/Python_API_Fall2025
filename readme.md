@@ -14,4 +14,6 @@ Copy files and folders: cp <-r directory / file name> <destination path>
 Show file content: cat <file name>
 Create an empty file: touch <file name>
 List files and directories: ls
+Search of files and directories: find <path> -name "filename or extenstion (*.txt)"
+
 
